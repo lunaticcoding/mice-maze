@@ -9,6 +9,7 @@ challenge and good way to really get started with flutter.
 
 You are in control of the maze while the mouse character moves on it's own. Change the maze by swiping the walls into different places to avoid the evil rat/traps and get the cheese.
 
+![alt text](screenshots/screenshot1.jpeg) ![alt text](screenshots/screenshot2.jpeg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
