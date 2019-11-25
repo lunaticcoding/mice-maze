@@ -4,6 +4,7 @@
 A simple game I wrote as part of a one/two week coding challenge on the side (while working and studying).
 The app still has some minor issues and the code could be a bit more organised but all in all it was a fun 
 challenge and good way to really get started with flutter. 
+The link to the android app store will be added as soon as the app is approved.
 
 # How the game works
 
